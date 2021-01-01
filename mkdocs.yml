@@ -1,0 +1,28 @@
+site_name: consulo.help
+repo_url: https://github.com/consulo/consulo-help.github.io
+theme:
+  name: material
+  favicon: art/icon16.svg
+  icon:
+    repo: fontawesome/brands/github
+  logo: art/icon16.svg
+  palette:
+    primary: black
+  features:
+    - navigation.instant
+    - navigation.tabs
+strict: true
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+nav:
+  - Welcome:
+    - Overview: index.md
+  - Platform:
+    - Update Channels: platform/update_channels.md
+  - Plugins:
+    - Unity:
+      - Overview: plugins/consulo.unity3d/overview.md
+      - Setup: plugins/consulo.unity3d/setup.md
+      - Debugging: plugins/consulo.unity3d/debugging.md
+      - Using Consulo as Editor inside Unity: plugins/consulo.unity3d/using_consulo_as_external_editor.md
