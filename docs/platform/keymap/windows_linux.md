@@ -4,10 +4,10 @@
 !!! note "Remember these Shortcuts"
     * Smart code completion <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd>
     * Search everywhere **Double** <kbd>Shift</kbd>
-        * Go to Class <kbd>Ctrl</kbd> + <kbd>N</kbd>
-        * Go to File <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>
-        * Go to Symbols <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>N</kbd>
-        * Go to Actions <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>
+        * Go to class <kbd>Ctrl</kbd> + <kbd>N</kbd>
+        * Go to file <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>
+        * Go to symbol <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>N</kbd>
+        * Go to action <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>
     * Show intention actions and quick-fixes <kbd>Alt</kbd> + <kbd>Enter</kbd>
     * Generate code <kbd>Alt</kbd> + <kbd>Ins</kbd>
     * Parameter info <kbd>Ctrl</kbd> + <kbd>P</kbd>
