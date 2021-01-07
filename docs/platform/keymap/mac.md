@@ -1,5 +1,8 @@
 # :fontawesome-brands-windows: macOS default keymap
 
+!!! warning "NOT DONE"
+    Work in progress
+
 !!! quote ""
     Check [apple shortcuts guide](https://support.apple.com/guide/mac-help/what-are-those-symbols-shown-in-menus-cpmh0011/mac)
     
