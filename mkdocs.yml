@@ -21,9 +21,10 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav:
-  - Welcome:
-    - Overview: index.md
-  - Platform:
+  - Help:
+    - Welcome: index.md
+  - For Platform:
+    - Overview: platform/overview.md
     - Settings/Preferences:
       - General:
         - Keymap: platform/preferences/general/keymap.md
@@ -33,7 +34,7 @@ nav:
         - Windows | Linux: platform/keymap/windows_linux.md
         - macOS: platform/keymap/mac.md
     - Update Channels: platform/update_channels.md
-  - Plugins:
+  - For Plugins:
     - Unity:
       - Overview: plugins/consulo.unity3d/overview.md
       - Setup: plugins/consulo.unity3d/setup.md
