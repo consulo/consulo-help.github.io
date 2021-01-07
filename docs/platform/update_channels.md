@@ -16,8 +16,7 @@ You can always change channel in settings
 
 And then click **About -> Check for updates**
 
-# WARNING
+!!! warning WARNING
+    In **nightly** / **alpha** channel sometimes plugins don't have builds for new platform (for example compilation failed)
 
-In **nightly** / **alpha** channel sometimes plugins don't have builds for new platform (for example compilation failed)
-
-**Keep calm - Consulo do not allow update, if some plugins missed, you will get warning about it.**
+    **Keep calm - Consulo do not allow update, if some plugins missed, you will get warning about it.**
