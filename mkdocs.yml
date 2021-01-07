@@ -24,6 +24,9 @@ nav:
   - Welcome:
     - Overview: index.md
   - Platform:
+    - Settings/Preferences:
+      - General:
+        - Keymap: platform/preferences/general/keymap.md
     - Keymap:
       - Overview: platform/keymap/overview.md
       - OS:
