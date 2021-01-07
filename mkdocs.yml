@@ -16,14 +16,19 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
   - admonition
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 nav:
   - Welcome:
     - Overview: index.md
   - Platform:
     - Keymap:
       - Overview: platform/keymap/overview.md
-      - Windows & Linux: platform/keymap/windows_linux.md
-      - macOS: platform/keymap/mac.md
+      - OS:
+        - Windows | Linux: platform/keymap/windows_linux.md
+        - macOS: platform/keymap/mac.md
     - Update Channels: platform/update_channels.md
   - Plugins:
     - Unity:
