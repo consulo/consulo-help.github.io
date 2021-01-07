@@ -24,24 +24,24 @@
 * Rename <kbd>Shift ⇧</kbd><kbd>F6</kbd>
 
 ## General
-* Open corresponding tool window 0 ... 9
-* Save all S
-* Synchronize Y
-* Toggle maximizing editor F12
-* Inspect current file with current profile I
-* Quick switch current scheme §, `
-* Open Settings dialog ,
-* Open Project Structure dialog ;
-* Find Action A
+* Open corresponding tool window <kbd>Command ⌘</kbd><kbd>0</kbd> ... <kbd>Command ⌘</kbd><kbd>9</kbd>
+* Save all <kbd>Command ⌘</kbd><kbd>S</kbd>
+* Synchronize <kbd>Command ⌘</kbd><kbd>Option ⌥</kbd><kbd>Y</kbd>
+* Toggle maximizing editor <kbd>Command ⌘</kbd><kbd>Shift ⇧</kbd><kbd>F12</kbd>
+* Inspect current file with current profile <kbd>Option ⌥</kbd><kbd>Shift ⇧</kbd><kbd>I</kbd>
+* Quick switch current scheme <kbd>Control ⌃</kbd><kbd>§</kbd> or <kbd>Control ⌃</kbd><kbd>`</kbd>
+* Open Settings dialog <kbd>Command ⌘</kbd><kbd>,</kbd>
+* Open Project Structure dialog <kbd>Command ⌘</kbd><kbd>;</kbd>
+* Find Action <kbd>Command ⌘</kbd><kbd>Shift ⇧</kbd><kbd>A</kbd>
 
 ## Debugging
-* Step over/into F8 / F7
-* Smart step into/Step out F7 / F8
-* Run to cursor F9
-* Evaluate expression F8
-* Resume program R
-* Toggle breakpoint F8
-* View breakpoints F8
+* Step over/into <kbd>F8</kbd> / <kbd>F7</kbd>
+* Smart step into/Step out <kbd>Shift ⇧</kbd><kbd>F7</kbd> / <kbd>Shift ⇧</kbd><kbd>F8</kbd>
+* Run to cursor <kbd>Option ⌥</kbd><kbd>F9</kbd>
+* Evaluate expression <kbd>Option ⌥</kbd><kbd>F8</kbd>
+* Resume program <kbd>Command ⌘</kbd><kbd>Option ⌥</kbd><kbd>R</kbd>
+* Toggle breakpoint <kbd>Command ⌘</kbd><kbd>F8</kbd>
+* View breakpoints <kbd>Command ⌘</kbd><kbd>Shift ⇧</kbd><kbd>F8</kbd>
 
 ## Search / Replace
 * Search everywhere Double
