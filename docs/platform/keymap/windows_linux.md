@@ -1,21 +1,20 @@
 # :fontawesome-brands-windows: Windows & :fontawesome-brands-linux: Linux default keymap
 
 
-## Remember these Shortcuts
-
-* Smart code completion <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd>
-* Search everywhere **Double** <kbd>Shift</kbd>
-    * Go to Class <kbd>Ctrl</kbd> + <kbd>N</kbd>
-    * Go to File <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>
-    * Go to Symbols <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>N</kbd>
-    * Go to Actions <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>
-* Show intention actions and quick-fixes <kbd>Alt</kbd> + <kbd>Enter</kbd>
-* Generate code <kbd>Alt</kbd> + <kbd>Ins</kbd>
-* Parameter info <kbd>Ctrl</kbd> + <kbd>P</kbd>
-* Extend selection <kbd>Ctrl</kbd> + <kbd>W</kbd>
-* Shrink selection <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>
-* Recent files popup <kbd>Ctrl</kbd> + <kbd>E
-* Rename <kbd>Shift</kbd> + <kbd>F6</kbd>
+!!! note "Remember these Shortcuts"
+    * Smart code completion <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd>
+    * Search everywhere **Double** <kbd>Shift</kbd>
+        * Go to Class <kbd>Ctrl</kbd> + <kbd>N</kbd>
+        * Go to File <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>
+        * Go to Symbols <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>N</kbd>
+        * Go to Actions <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>
+    * Show intention actions and quick-fixes <kbd>Alt</kbd> + <kbd>Enter</kbd>
+    * Generate code <kbd>Alt</kbd> + <kbd>Ins</kbd>
+    * Parameter info <kbd>Ctrl</kbd> + <kbd>P</kbd>
+    * Extend selection <kbd>Ctrl</kbd> + <kbd>W</kbd>
+    * Shrink selection <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>
+    * Recent files popup <kbd>Ctrl</kbd> + <kbd>E
+    * Rename <kbd>Shift</kbd> + <kbd>F6</kbd>
 
 ## General
 * Open corresponding tool window <kbd>Alt</kbd> + <kbd>#[0-9]</kbd>
@@ -158,5 +157,5 @@
 * Insert Live Template <kbd>Ctrl</kbd> + <kbd>J</kbd>
 
 
-!!! note "NOTICE"
+!!! info "NOTICE"
     Initial version from [IntelliJ IDEA Reference Card](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)

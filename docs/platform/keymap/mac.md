@@ -1,6 +1,6 @@
 # :fontawesome-brands-windows: macOS default keymap
 
-!!! note "additional info"
+!!! quote ""
     Check [apple shortcuts guide](https://support.apple.com/guide/mac-help/what-are-those-symbols-shown-in-menus-cpmh0011/mac)
     
     * Command (or Cmd) <kbd>Command ⌘</kbd>
@@ -12,16 +12,16 @@
     * Down <kbd>Down 🠗</kbd>
 
 
-## Remember these Shortcuts
-* Smart code completion <kbd>Control ⌃</kbd> <kbd>Shift ⇧</kbd> <kbd>Space</kbd>
-* Search everywhere **Double** <kbd>Shift ⇧</kbd>
-* Show intention actions and quick-fixes <kbd>Command ⌘</kbd><kbd>Return ⮨</kbd>
-* Generate code <kbd>Command ⌘</kbd><kbd>N</kbd> or <kbd>Control ⌃</kbd><kbd>Return ⮨</kbd>
-* Parameter info <kbd>Command ⌘</kbd><kbd>P</kbd>
-* Extend selection <kbd>Option ⌥</kbd><kbd>Command ⌘</kbd><kbd>Up 🠕</kbd>
-* Shrink selection <kbd>Option ⌥</kbd><kbd>Command ⌘</kbd><kbd>Down 🠗</kbd>
-* Recent files popup <kbd>Command ⌘</kbd><kbd>E</kbd>
-* Rename <kbd>Shift ⇧</kbd><kbd>F6</kbd>
+!!! note "Remember these Shortcuts"
+    * Smart code completion <kbd>Control ⌃</kbd> <kbd>Shift ⇧</kbd> <kbd>Space</kbd>
+    * Search everywhere **Double** <kbd>Shift ⇧</kbd>
+    * Show intention actions and quick-fixes <kbd>Command ⌘</kbd><kbd>Return ⮨</kbd>
+    * Generate code <kbd>Command ⌘</kbd><kbd>N</kbd> or <kbd>Control ⌃</kbd><kbd>Return ⮨</kbd>
+    * Parameter info <kbd>Command ⌘</kbd><kbd>P</kbd>
+    * Extend selection <kbd>Option ⌥</kbd><kbd>Command ⌘</kbd><kbd>Up 🠕</kbd>
+    * Shrink selection <kbd>Option ⌥</kbd><kbd>Command ⌘</kbd><kbd>Down 🠗</kbd>
+    * Recent files popup <kbd>Command ⌘</kbd><kbd>E</kbd>
+    * Rename <kbd>Shift ⇧</kbd><kbd>F6</kbd>
 
 ## General
 * Open corresponding tool window <kbd>Command ⌘</kbd><kbd>0</kbd> ... <kbd>Command ⌘</kbd><kbd>9</kbd>
@@ -172,5 +172,5 @@
 * Insert Live Template J
 
 
-!!! note "NOTICE"
+!!! info "NOTICE"
     Initial version from [IntelliJ IDEA Reference Card](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
