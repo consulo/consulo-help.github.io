@@ -19,7 +19,7 @@ Also Consulo must set as **External Editor**
     }
   ],
   "dependencies": {
-    "com.consulo.ide": "2.5.0"
+    "com.consulo.ide": "2.6.0"
   }
 }
 ```
@@ -38,7 +38,7 @@ Also Consulo must set as **External Editor**
     }
   ],
   "dependencies": {
-    "com.consulo.ide": "2.5.0"
+    "com.consulo.ide": "2.6.0"
   }
 }
 ```
