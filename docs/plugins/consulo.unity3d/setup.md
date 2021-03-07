@@ -7,16 +7,7 @@
 If <kbd>Unity3D</kbd> option is not present, do the following:
 
 1. Select <kbd>From Repository</kbd> tab
-1. Search for and install ALL of the following plugins
-(A blue title indicates that it's alreadyinstalled):
-  - .NET Common
-  - C#
-  - Unity3D
-  - IntelliLang
-  - JavaScript Support
-  - Regexp
-  - Spellchecker
-  - XML
+1. Search <kbd>Unity3D</kbd> install plugin with dependencies
 1. Once everything has been installed, close the settings window and restart Consulo.
 
 ### Locating the Unity SDK
