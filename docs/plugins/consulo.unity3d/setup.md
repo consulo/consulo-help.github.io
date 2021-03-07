@@ -23,24 +23,13 @@ If <kbd>Unity3D</kbd> option is not present, do the following:
 Note: If Unity3D is installed to its default location, Consulo will locate it automatically and this step may be skipped.
 
 1. Bring up the Consulo Launcher
-- Click the <kbd>Actions</kbd> tab
 - Select <kbd>Configure</kbd>
-- Select <kbd>Project Defaults</kbd>
-- Select <kbd>Project Structure</kbd>
-- On the left, under <kbd>Global Settings</kbd>, select <kbd>Bundles</kbd>
+- Select <kbd>Settings (or Preferences on macOS)</kbd>
+- On the left, under <kbd>SDKs/Bundles/Tools</kbd>
 - Press the green (black on OS X) <kbd>➕</kbd> icon, and choose <kbd>Unity3D</kbd>
 - Locate your Unity installation directory, select it and then press <kbd>OK</kbd>
 
 All set :+1:
-
-
-#### Alternative method:
-
- 1. Create a new empty project
- - <kbd>File</kbd> menu -> <kbd>Project Structure</kbd>
- - Under <kbd>Bundles</kbd>, locate <kbd>Unity3D</kbd>
- - Right-click <kbd>Unity3D</kbd>, select <kbd>Add New SDK</kbd> -> <kbd>Unity3D</kbd>
- - In the dialogue box that opens, select your Unity install directory and press <kbd>OK</kbd>
 
 ### Manually Importing a Unity Project
 
