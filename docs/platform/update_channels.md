@@ -1,6 +1,6 @@
 # Update Channels
 
-Consulo has four public update channels, and one internal (in parentheses iteration information):
+Consulo has four public update channels:
 
  * **release** (every monday new builds come at 00:00)
  * **beta** (every day new builds come at 00:00)
