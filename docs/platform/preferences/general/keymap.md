@@ -3,4 +3,4 @@
 
 ## UI Page
 
-![](images/keymap.png)
+![Keymap Preferences Page](images/keymap.png)
