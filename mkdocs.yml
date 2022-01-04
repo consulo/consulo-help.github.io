@@ -30,12 +30,12 @@ nav:
         - Keymap: platform/settings/general/keymap.md
       - Platform And Plugins: platform/settings/platform.and.plugins.md
         - Experimental Features: platform/settings/platform.and.plugins/experimental.features.md
+        - Update Settings: platform/settings/platform.and.plugins/update.settings.md
     - Keymap:
       - Overview: platform/keymap/overview.md
       - OS:
         - Windows | Linux: platform/keymap/windows_linux.md
         - macOS: platform/keymap/mac.md
-    - Update Channels: platform/update_channels.md
   - For Plugins:
     - Unity:
       - Overview: plugins/consulo.unity3d/overview.md
