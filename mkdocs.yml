@@ -27,7 +27,9 @@ nav:
     - Overview: platform/overview.md
     - Settings/Preferences:
       - General:
-        - Keymap: platform/preferences/general/keymap.md
+        - Keymap: platform/settings/general/keymap.md
+      - Platform And Plugins: settings/platform.and.plugins.md
+        - Experimental Features: settings/platform.and.plugins/experimental.features.md
     - Keymap:
       - Overview: platform/keymap/overview.md
       - OS:
