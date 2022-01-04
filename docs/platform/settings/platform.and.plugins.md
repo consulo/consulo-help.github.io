@@ -1,5 +1,3 @@
-# Platform And Plugins
-
 The *Platform and Plugins* page is used to manage the currently installed and enabled plugins.
 
 The list of plugins can be refreshed by pressing the
