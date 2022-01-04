@@ -20,7 +20,7 @@ To copy an SDK, press the <img src="images/copy.png" alt="copy"/> button at the 
 For more information about the options provided for each platform, see the help page for the platform plugin.
 
 !!! info "See Also"
-	[Platform and Plugins] preferences
+	[Platform and Plugins] settings
 	[Setting Up Unity] guide
 
 <!--- Links --->

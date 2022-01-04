@@ -41,7 +41,7 @@ The project is now opened in Consulo
  - For example: `Consulo\consulo64.exe` or `Consulo.app` for macOS
 - Once complete, the drop-down box should say “Consulo“
 - Select the <kbd>Editor Attaching</kbd> checkbox
-- Close the preferences window
+- Close the settings window
 
 - **Require** installed Consulo plugin for UnityEditor. Read README from https://github.com/consulo/UnityEditorConsuloPlugin
 
