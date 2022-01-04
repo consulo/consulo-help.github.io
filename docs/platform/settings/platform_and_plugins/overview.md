@@ -3,7 +3,7 @@
 The *Platform and Plugins* page is used to manage the currently installed and enabled plugins.
 
 The list of plugins can be reloaded by pressing the
-<img src="platform.and.plugins/images/reload_button.png" alt="Reload List of Plugins"/> button located at the top of the window.
+<img src="../images/reload_button.png" alt="Reload List of Plugins"/> button located at the top of the window.
 
 The search bar seen at the top of the page can be used to find specific plugins.
 
@@ -19,18 +19,18 @@ Installing, uninstalling, enabling, or disabling a plugin may require the IDE to
 The *Installed* tab shows the currently installed plugins.
 
 Plugins can be installed locally from your computer by clicking the
-<img src="platform.and.plugins/images/install_button.png" alt="install from disk"/> button located at the top of the
-window, next to the <img src="platform.and.plugins/images/reload_button.png" alt="Reload List of Plugins"/> button.
+<img src="../images/install_button.png" alt="install from disk"/> button located at the top of the
+window, next to the <img src="../images/reload_button.png" alt="Reload List of Plugins"/> button.
 
 The list can be filtered with the *Show* drop-down menu.
 
-![Installed Plugins Page](platform.and.plugins/images/installed.show_menu.png)
+![Installed Plugins Page](images/installed.show_menu.png)
 
 An installed plugin can be removed by selecting it and pressing the <kbd>Uninstall</kbd> button.
 
 An installed plugin can be toggled on or off by clicking the checkbox to the right of the plugin in the list.
 
-![Installed Plugins Page](platform.and.plugins/images/installed.png)
+![Installed Plugins Page](images/installed.png)
 
 ## From Repository
 
@@ -39,11 +39,11 @@ On this tab, you can find an install supported plugins for Consulo.
 
 The list can be filtered with the *Tag* drop-down menu. This menu will list the available plugin tags.
 
-![Plugin Repository Page](platform.and.plugins/images/repository.tag_menu.png)
+![Plugin Repository Page](images/repository.tag_menu.png)
 
 Each listing shows the last time it was updated and the amount of downloads on the right.
 
 Plugins can be downloaded and installed by simply selecting one and pressing the <kbd>Install</kbd> button.
 
-![Plugin Repository Page](platform.and.plugins/images/repository.png)
+![Plugin Repository Page](images/repository.png)
 

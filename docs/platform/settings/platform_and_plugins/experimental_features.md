@@ -5,5 +5,5 @@ and your IDE may even spontaneously combust."
 Experimental features change often.
 They will not be documented here until they become permanent features.
 
-![UI Screenshot](images/experimental.features.png)
+![UI Screenshot](images/experimental_features.png)
 

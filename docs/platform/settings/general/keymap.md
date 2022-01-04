@@ -22,5 +22,5 @@ Then press apply to save your settings.
 
 
 <!--- Links --->
-[Default Keymap Reference]:(/platform/keymap/overview.md)
+[Default Keymap Reference]:/platform/keymap/overview.md
 
