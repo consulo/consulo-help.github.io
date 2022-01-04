@@ -2,8 +2,8 @@
 
 The *Platform and Plugins* page is used to manage the currently installed and enabled plugins.
 
-The list of plugins can be refreshed by pressing the
-<img src="platform.and.plugins/images/refresh_button.png" alt="refresh"/> button at the top of the page.
+The list of plugins can be reloaded by pressing the
+<img src="platform.and.plugins/images/reload_button.png" alt="Reload List of Plugins"/> button located at the top of the window.
 
 The search bar seen at the top of the page can be used to find specific plugins.
 
@@ -14,18 +14,19 @@ Plugins also list their tags just below their title.
 
 Installing, uninstalling, enabling, or disabling a plugin may require the IDE to be restarted for changes to take effect.
 
-## Installed Plugins
+## Installed
 
 The *Installed* tab shows the currently installed plugins.
 
 Plugins can be installed locally from your computer by clicking the
-<img src="platform.and.plugins/images/install_button.png" alt="install"/> button located next to the refresh button.
+<img src="platform.and.plugins/images/install_button.png" alt="install from disk"/> button located at the top of the
+window, next to the <img src="platform.and.plugins/images/reload_button.png" alt="Reload List of Plugins"/> button.
 
 The list can be filtered with the *Show* drop-down menu.
 
 ![Installed Plugins Page](platform.and.plugins/images/installed.show_menu.png)
 
-An installed plugin can be removed by selecting it and pressing the "Uninstall" button.
+An installed plugin can be removed by selecting it and pressing the <kbd>Uninstall</kbd> button.
 
 An installed plugin can be toggled on or off by clicking the checkbox to the right of the plugin in the list.
 
@@ -42,7 +43,7 @@ The list can be filtered with the *Tag* drop-down menu. This menu will list the 
 
 Each listing shows the last time it was updated and the amount of downloads on the right.
 
-Plugins can be downloaded and installed by simply selecting one and pressing the "Install" button.
+Plugins can be downloaded and installed by simply selecting one and pressing the <kbd>Install</kbd> button.
 
 ![Plugin Repository Page](platform.and.plugins/images/repository.png)
 
