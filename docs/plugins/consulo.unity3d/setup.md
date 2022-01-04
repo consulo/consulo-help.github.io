@@ -1,13 +1,13 @@
 ### Plugin Installation
 1. Launch Consulo
 - <kbd>File</kbd> menu -> <kbd>Settings</kbd>
-- Under <kbd>Platform & Plugins</kbd>
-- Look for <kbd>Unity3D</kbd>, and ensure that it is selected.
+- Under <kbd>Platform and Plugins</kbd>
+- Look for `Unity3D`, and ensure that it is selected.
 
-If <kbd>Unity3D</kbd> option is not present, do the following:
+If the `Unity3D` option is not present, do the following:
 
-1. Select <kbd>From Repository</kbd> tab
-1. Search <kbd>Unity3D</kbd> install plugin with dependencies
+1. Select the <kbd>From Repository</kbd> tab
+1. Search for <kbd>Unity3D</kbd> install plugin with dependencies
 1. Once everything has been installed, close the settings window and restart Consulo.
 
 ### Locating the Unity SDK
@@ -15,12 +15,12 @@ Note: If Unity3D is installed to its default location, Consulo will locate it au
 
 1. Bring up the Consulo Launcher
 - Select <kbd>Configure</kbd>
-- Select <kbd>Settings (or Preferences on macOS)</kbd>
+- Select <kbd>Settings</kbd> (or <kbd>Preferences</kbd> on macOS)
 - On the left, under <kbd>SDKs/Bundles/Tools</kbd>
 - Press the green (black on OS X) <kbd>➕</kbd> icon, and choose <kbd>Unity3D</kbd>
 - Locate your Unity installation directory, select it and then press <kbd>OK</kbd>
 
-All set :+1:
+All set! :+1:
 
 ### Manually Importing a Unity Project
 
@@ -36,10 +36,10 @@ The project is now opened in Consulo
 1. Launch Unity Editor
 - From the <kbd>Edit</kbd> menu, select <kbd>Preferences</kbd>
 - Select the <kbd>External Tools</kbd> tab
-- Click on the the <kbd>External Editor</kbd> dropdown box, and select <kbd>Browse</kbd>
+- Click on the the <kbd>External Editor</kbd> drop-down box, and select <kbd>Browse</kbd>
 - Locate your Consulo installation directory, and select the Unity executable file.
  - For example: `Consulo\consulo64.exe` or `Consulo.app` for macOS
-- Once complete, the dropdown box should say “Consulo“
+- Once complete, the drop-down box should say “Consulo“
 - Select the <kbd>Editor Attaching</kbd> checkbox
 - Close the preferences window
 
