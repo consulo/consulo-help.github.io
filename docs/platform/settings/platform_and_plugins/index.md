@@ -1,7 +1,7 @@
 The *Platform and Plugins* page is used to manage the currently installed and enabled plugins.
 
 The list of plugins can be reloaded by pressing the
-<img src="../images/reload_button.png" alt="Reload List of Plugins"/> button located at the top of the window.
+<img src="images/reload_button.png" alt="Reload List of Plugins"/> button located at the top of the window.
 
 The search bar seen at the top of the page can be used to find specific plugins.
 
@@ -17,8 +17,8 @@ Installing, uninstalling, enabling, or disabling a plugin may require the IDE to
 The *Installed* tab shows the currently installed plugins.
 
 Plugins can be installed locally from your computer by clicking the
-<img src="../images/install_button.png" alt="install from disk"/> button located at the top of the
-window, next to the <img src="../images/reload_button.png" alt="Reload List of Plugins"/> button.
+<img src="images/install_button.png" alt="install from disk"/> button located at the top of the
+window, next to the <img src="images/reload_button.png" alt="Reload List of Plugins"/> button.
 
 The list can be filtered with the *Show* drop-down menu.
 
