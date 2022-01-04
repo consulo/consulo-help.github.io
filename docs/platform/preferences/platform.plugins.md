@@ -2,6 +2,9 @@
 
 The *Platform and Plugins* page is used to manage the currently installed and enabled plugins.
 
+The list of plugins can be refreshed by pressing the
+<img src="images/platform.plugins.refresh_button.png" alt="refresh"/> button at the top of the page.
+
 The search bar seen at the top of the page can be used to find specific plugins.
 
 Each plugin listed has relevant information attached, such as the latest and/or installed version number, the features of the plugin,
@@ -14,6 +17,9 @@ Installing, uninstalling, enabling, or disabling a plugin may require the IDE to
 ## Installed Plugins
 
 The *Installed* tab shows the currently installed plugins.
+
+Plugins can be installed locally from your computer by clicking the
+<img src="images/platform.plugins.install_button.png" alt="install"/> button located next to the refresh button.
 
 The list can be filtered with the "Show" drop-down menu.
 
