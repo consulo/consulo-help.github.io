@@ -44,3 +44,9 @@ nav:
       - Setup: plugins/consulo.unity3d/setup.md
       - Debugging: plugins/consulo.unity3d/debugging.md
       - Using Consulo as Editor inside Unity: plugins/consulo.unity3d/using_consulo_as_external_editor.md
+plugins:
+    - redirects:
+        redirect_maps:
+            'platform/preferences/general/keymap.md': 'platform/settings/general/keymap.md'
+            'platform/preferences/update.settings.md': 'platform/settings/platform.and.plugins/external.services.md'
+
