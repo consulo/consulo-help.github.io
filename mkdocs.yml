@@ -28,9 +28,11 @@ nav:
     - Settings/Preferences:
       - General:
         - Keymap: platform/settings/general/keymap.md
+      - External Services: platform/settings/external.services.md
       - Platform And Plugins: platform/settings/platform.and.plugins.md
         - Experimental Features: platform/settings/platform.and.plugins/experimental.features.md
         - Update Settings: platform/settings/platform.and.plugins/update.settings.md
+      - SDKs/Bundles/Tools: platform/settings/sdks.bundles.tools.md
     - Keymap:
       - Overview: platform/keymap/overview.md
       - OS:
