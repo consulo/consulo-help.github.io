@@ -7,18 +7,7 @@ theme:
     repo: fontawesome/brands/github
   logo: art/icon16.svg
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: black
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+    primary: black
   features:
     - navigation.instant
     - navigation.tabs
@@ -39,14 +28,14 @@ nav:
     - Settings/Preferences:
       - General:
         - Keymap: platform/settings/general/keymap.md
-      - Platform And Plugins: settings/platform.and.plugins.md
-        - Experimental Features: settings/platform.and.plugins/experimental.features.md
+      - Platform And Plugins: platform/settings/platform.and.plugins.md
+        - Experimental Features: platform/settings/platform.and.plugins/experimental.features.md
+        - Update Settings: platform/settings/platform.and.plugins/update.settings.md
     - Keymap:
       - Overview: platform/keymap/overview.md
       - OS:
         - Windows | Linux: platform/keymap/windows_linux.md
         - macOS: platform/keymap/mac.md
-    - Update Channels: platform/update_channels.md
   - For Plugins:
     - Unity:
       - Overview: plugins/consulo.unity3d/overview.md
