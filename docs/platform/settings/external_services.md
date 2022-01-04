@@ -35,8 +35,8 @@ The [Consulo.io] account you are signed into is shown at the top of the window.
 - Anonymous
 	**No** pPersonally identifiable data will be sent to [Consulo.io].
 
-![UI Screenshot](images/external.services.png)
+![UI Screenshot](images/external_services.png)
 
 <!--- Links --->
-[Consulo.io]:(https://Consulo.io)
+[Consulo.io]:https://Consulo.io
 

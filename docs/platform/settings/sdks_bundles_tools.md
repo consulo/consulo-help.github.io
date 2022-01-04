@@ -2,7 +2,7 @@
 
 SDKS/Bundles/Tools is the page for configuring your SDKs, Bundles, and Tools.
 
-![UI Screenshot](images/sdks.bundles.tools.png)
+![UI Screenshot](images/sdks_bundles_tools.png)
 
 To add a new SDK, click the <img src="images/add.png" alt="add"/> button at the top of the window.
 
@@ -24,6 +24,6 @@ For more information about the options provided for each platform, see the help 
 	[Setting Up Unity] guide
 
 <!--- Links --->
-[Platform and Plugins]:(./platform.and.plugins.md)
-[Setting Up Unity]:(/plugins/consulo.unity3d/setup.md)
+[Platform and Plugins]:./platform_and_plugins/overview.md
+[Setting Up Unity]:/plugins/consulo.unity3d/setup.md
 

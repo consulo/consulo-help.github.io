@@ -28,11 +28,12 @@ nav:
     - Settings/Preferences:
       - General:
         - Keymap: platform/settings/general/keymap.md
-      - External Services: platform/settings/external.services.md
-      - Platform And Plugins: platform/settings/platform.and.plugins.md
-        - Experimental Features: platform/settings/platform.and.plugins/experimental.features.md
-        - Update Settings: platform/settings/platform.and.plugins/update.settings.md
-      - SDKs/Bundles/Tools: platform/settings/sdks.bundles.tools.md
+      - External Services: platform/settings/external_services.md
+      - Platform and Plugins:
+        - Overview: platform/settings/platform_and_plugins/overview.md
+        - Experimental Features: platform/settings/platform_and_plugins/experimental_features.md
+        - Update Settings: platform/settings/platform_and_plugins/update_settings.md
+      - SDKs/Bundles/Tools: platform/settings/sdks_bundles_tools.md
     - Keymap:
       - Overview: platform/keymap/overview.md
       - OS:
@@ -48,5 +49,5 @@ plugins:
     - redirects:
         redirect_maps:
             'platform/preferences/general/keymap.md': 'platform/settings/general/keymap.md'
-            'platform/preferences/update.settings.md': 'platform/settings/platform.and.plugins/external.services.md'
+            'platform/update_channels.md': 'platform/settings/platform_and_plugins/update_settings.md'
 
