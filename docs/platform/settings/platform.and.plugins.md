@@ -19,7 +19,7 @@ The *Installed* tab shows the currently installed plugins.
 Plugins can be installed locally from your computer by clicking the
 <img src="platform.and.plugins/images/install_button.png" alt="install"/> button located next to the refresh button.
 
-The list can be filtered with the "Show" drop-down menu.
+The list can be filtered with the *Show* drop-down menu.
 
 ![Installed Plugins Page](platform.and.plugins/images/installed.show_menu.png)
 
@@ -34,7 +34,7 @@ An installed plugin can be toggled on or off by clicking the checkbox to the rig
 The *From Repository* tab shows plugins that are listed on the plugin repository.
 On this tab, you can find an install supported plugins for Consulo.
 
-The list can be filtered with the "Tag" drop-down menu. This menu will list the available plugin tags.
+The list can be filtered with the *Tag* drop-down menu. This menu will list the available plugin tags.
 
 ![Plugin Repository Page](platform.and.plugins/images/repository.tag_menu.png)
 
