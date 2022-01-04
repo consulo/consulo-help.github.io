@@ -7,3 +7,4 @@ To see the full list of default key mappings, please choose your Operating Syste
 
 !!! info "See also"
     [Keymap Preferences](/platform/settings/general/keymap.md)
+
