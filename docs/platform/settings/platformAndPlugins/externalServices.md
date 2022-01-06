@@ -31,9 +31,9 @@ The [Consulo.io] account you are signed into is shown at the top of the window.
 - Disabled
 	Data will not be sent to [Consulo.io].
 - Unanonymous
-	Personally identifiable data **will** be sent to [Consulo.io].
+	Personally identifiable data **will** be sent to (only if user authorized. For view stored data as hub.consulo.io) [Consulo.io].
 - Anonymous
-	**No** pPersonally identifiable data will be sent to [Consulo.io].
+	**No** Personally identifiable data will be sent to [Consulo.io].
 
 ![UI Screenshot](images/external_services.png)
 
