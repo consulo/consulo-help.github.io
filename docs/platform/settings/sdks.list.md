@@ -24,6 +24,6 @@ For more information about the options provided for each platform, see the help 
 	[Setting Up Unity] guide
 
 <!--- Links --->
-[Platform and Plugins]:./platform_and_plugins/index.md
+[Platform and Plugins]:./platformAndPlugins/index.md
 [Setting Up Unity]:/plugins/consulo.unity3d/setup.md
 
