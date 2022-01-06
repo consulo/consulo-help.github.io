@@ -37,6 +37,8 @@ nav:
   - For Platform:
     - Overview: platform/index.md
     - Settings/Preferences:
+      - Project:
+        Overview: platform/settings/project/index.md
       - General:
         - Keymap: platform/settings/general/keymap.md
       - External Services: platform/settings/external_services.md
