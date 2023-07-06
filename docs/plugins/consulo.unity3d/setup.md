@@ -37,7 +37,7 @@ The project is now opened in Consulo
 - From the <kbd>Edit</kbd> menu, select <kbd>Preferences</kbd>
 - Select the <kbd>External Tools</kbd> tab
 - Click on the the <kbd>External Editor</kbd> drop-down box, and select <kbd>Browse</kbd>
-- Locate your Consulo installation directory, and select the Unity executable file.
+- Locate your Consulo installation directory, and select the Consulo executable file.
  - For example: `Consulo\consulo64.exe` or `Consulo.app` for macOS
 - Once complete, the drop-down box should say “Consulo“
 - Select the <kbd>Editor Attaching</kbd> checkbox
