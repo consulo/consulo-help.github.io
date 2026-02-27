@@ -1,15 +1,31 @@
-# Requirements
+# consulo.help
 
-   * Python 3+
-   * Also required mkdocs, and mkdocs-material. Installed by:
-     * > pip install mkdocs
-     * > pip install mkdocs-material
-# For testing
+Help documentation for [Consulo](https://consulo.io) and its plugins.
 
-Call from terminal
+## Requirements
 
-> mkdocs serve
+* Node.js 20+
 
-# For build static files
+## Setup
 
-> mkdocs build
+```bash
+npm install
+```
+
+## Development
+
+```bash
+npm run docs:dev
+```
+
+## Build
+
+```bash
+npm run docs:build
+```
+
+## Preview built site
+
+```bash
+npm run docs:preview
+```
