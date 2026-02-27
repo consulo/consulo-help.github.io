@@ -3,7 +3,7 @@
 
 SDKS/Bundles/Tools is the page for configuring your SDKs, Bundles, and Tools.
 
-![UI Screenshot](images/sdks_bundles_tools.png)
+![UI Screenshot](./images/sdks_bundles_tools.png)
 
 To add a new SDK, click the <img src="../images/add.png" alt="add"/> button at the top of the window.
 

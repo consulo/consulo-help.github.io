@@ -1,6 +1,6 @@
 Update Settings is the page for configuring updates Consulo.
 
-![Update Channels](images/update_settings.png)
+![Update Channels](./images/update_settings.png)
 
 ## Repository Settings
 
@@ -16,7 +16,7 @@ Update Settings is the page for configuring updates Consulo.
      * **alpha** (by hand on my own will (@VISTALL))
      * **nightly** (after each commit to platform or plugin)
 
-	![Update Channels](images/update_settings.channel_menu.png)
+	![Update Channels](./images/update_settings.channel_menu.png)
 
 ---
 

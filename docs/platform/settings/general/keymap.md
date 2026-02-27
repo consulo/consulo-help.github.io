@@ -13,13 +13,13 @@ This may be especially useful to you if you are migrating from a different edito
 There are several keymaps available based on other editors,
 including Eclipse, IntelliJ, Visual Studio, VS Code, and NetBeans.
 
-![Keymap Settings Page](images/keymaps_menu.png)
+![Keymap Settings Page](./images/keymaps_menu.png)
 
 To change a shortcut mapping, right-click an entry in the list,
 and select either *Add Keyboard Shortcut* or *Add Mouse Shortcut*.
 Then press apply to save your settings.
 
-![Keymap Settings Page](images/keymap.png)
+![Keymap Settings Page](./images/keymap.png)
 
 
 <!--- Links --->

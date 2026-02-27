@@ -7,7 +7,7 @@ Project settings are settings that relate directly to your project.
 Project settings may be managed by a plugin such as Gradle.
 :::
 
-![UI Screenshot](images/project.png)
+![UI Screenshot](./images/project.png)
 
 - Project name<br/>
 	The name of your project.<br/>
