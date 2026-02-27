@@ -1,4 +1,6 @@
-!!! note "This information is collected for use only by [consulo.io] and will never be transmitted to any third party."
+::: tip
+This information is collected for use only by [consulo.io] and will never be transmitted to any third party.
+:::
 
 This is where you manage your [consulo.io] services.
 
@@ -39,4 +41,3 @@ The [consulo.io] account you are signed into is shown at the top of the window.
 
 <!--- Links --->
 [consulo.io]:https://consulo.io
-

@@ -1,20 +1,21 @@
-# :fontawesome-brands-windows: Windows & :fontawesome-brands-linux: Linux default keymap
+# Windows & Linux default keymap
 
 
-!!! note "Remember these Shortcuts"
-    * Smart code completion <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd>
-    * Search everywhere **Double** <kbd>Shift</kbd>
-        * Go to class <kbd>Ctrl</kbd> + <kbd>N</kbd>
-        * Go to file <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>
-        * Go to symbol <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>N</kbd>
-        * Go to action <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>
-    * Show intention actions and quick-fixes <kbd>Alt</kbd> + <kbd>Enter</kbd>
-    * Generate code <kbd>Alt</kbd> + <kbd>Ins</kbd>
-    * Parameter info <kbd>Ctrl</kbd> + <kbd>P</kbd>
-    * Extend selection <kbd>Ctrl</kbd> + <kbd>W</kbd>
-    * Shrink selection <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>
-    * Recent files popup <kbd>Ctrl</kbd> + <kbd>E
-    * Rename <kbd>Shift</kbd> + <kbd>F6</kbd>
+::: tip Remember these Shortcuts
+* Smart code completion <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd>
+* Search everywhere **Double** <kbd>Shift</kbd>
+    * Go to class <kbd>Ctrl</kbd> + <kbd>N</kbd>
+    * Go to file <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>
+    * Go to symbol <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>N</kbd>
+    * Go to action <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>
+* Show intention actions and quick-fixes <kbd>Alt</kbd> + <kbd>Enter</kbd>
+* Generate code <kbd>Alt</kbd> + <kbd>Ins</kbd>
+* Parameter info <kbd>Ctrl</kbd> + <kbd>P</kbd>
+* Extend selection <kbd>Ctrl</kbd> + <kbd>W</kbd>
+* Shrink selection <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>
+* Recent files popup <kbd>Ctrl</kbd> + <kbd>E</kbd>
+* Rename <kbd>Shift</kbd> + <kbd>F6</kbd>
+:::
 
 ## General
 * Open corresponding tool window <kbd>Alt</kbd> + <kbd>#[0-9]</kbd>
@@ -54,12 +55,12 @@
 * Parameter info (within method call arguments) <kbd>Ctrl</kbd> + <kbd>P</kbd>
 * Quick documentation lookup <kbd>Ctrl</kbd> + <kbd>Q</kbd>
 * External Doc <kbd>Shift</kbd> + <kbd>F1</kbd>
-* Brief Info <kbd>Ctrl</kbd> + **mouse**
+* Brief Info <kbd>Ctrl</kbd> + **mouse**
 * Show descriptions of error at caret <kbd>Ctrl</kbd> + <kbd>F1</kbd>
 * Generate code... <kbd>Alt</kbd> + <kbd>Insert</kbd>
 * Override methods <kbd>Ctrl</kbd> + <kbd>O</kbd>
 * Implement methods <kbd>Ctrl</kbd> + <kbd>I</kbd>
-* Surround with…  <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>
+* Surround with…  <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>
 * Comment/uncomment with line comment <kbd>Ctrl</kbd> + <kbd>/</kbd>
 * Comment/uncomment with block comment <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>/</kbd>
 * Extend selection <kbd>Ctrl</kbd> + <kbd>W</kbd>
@@ -70,22 +71,22 @@
 * Optimize imports <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd>
 * Auto-indent line(s) <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>I</kbd>
 * Indent/unindent selected lines <kbd>Tab</kbd> / <kbd>Shift</kbd> + <kbd>Tab</kbd>
-* Cut current line to clipboard <kbd>Ctrl</kbd> + <kbd>X</kbd> , <kbd>Shift</kbd> + <kbd>Delete</kbd>
-* Copy current line to clipboard <kbd>Ctrl</kbd> + <kbd>C</kbd> , <kbd>Ctrl</kbd> + <kbd>Insert</kbd>
-* Paste from clipboard <kbd>Ctrl</kbd> + <kbd>V</kbd> , <kbd>Shift</kbd> + <kbd>Insert</kbd>
-* Paste from recent buffers... <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd>
-* Duplicate current line <kbd>Ctrl</kbd> + <kbd>D</kbd>
-* Delete line at caret <kbd>Ctrl</kbd> + <kbd>Y</kbd>
-* Smart line join <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>
-* Smart line split <kbd>Ctrl</kbd> + <kbd>Enter</kbd>
+* Cut current line to clipboard <kbd>Ctrl</kbd> + <kbd>X</kbd> , <kbd>Shift</kbd> + <kbd>Delete</kbd>
+* Copy current line to clipboard <kbd>Ctrl</kbd> + <kbd>C</kbd> , <kbd>Ctrl</kbd> + <kbd>Insert</kbd>
+* Paste from clipboard <kbd>Ctrl</kbd> + <kbd>V</kbd> , <kbd>Shift</kbd> + <kbd>Insert</kbd>
+* Paste from recent buffers... <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd>
+* Duplicate current line <kbd>Ctrl</kbd> + <kbd>D</kbd>
+* Delete line at caret <kbd>Ctrl</kbd> + <kbd>Y</kbd>
+* Smart line join <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>
+* Smart line split <kbd>Ctrl</kbd> + <kbd>Enter</kbd>
 * Start new line <kbd>Shift</kbd> + <kbd>Enter</kbd>
 * Toggle case for word at caret or selected block <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>
 * Select till code block end /start <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd> / <kbd>[</kbd>
 * Delete to word end <kbd>Ctrl</kbd> + <kbd>Delete</kbd>
 * Delete to word start <kbd>Ctrl</kbd> + <kbd>Backspace</kbd>
 * Expand/collapse code block <kbd>Ctrl</kbd> + <kbd>NumPad_</kbd> / <kbd>NumPad-</kbd>
-* Expand all <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>NumPad+</kbd>
-* Collapse all <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>NumPad-</kbd>
+* Expand all <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>NumPad+</kbd>
+* Collapse all <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>NumPad-</kbd>
 * Close active editor tab <kbd>Ctrl</kbd> + <kbd>F4</kbd>
 
 ## Refactoring
@@ -110,10 +111,10 @@
 * Go back to previous tool window <kbd>F12</kbd>
 * Go to editor (from tool window) <kbd>Esc</kbd>
 * Hide active or last active window <kbd>Shift</kbd> + <kbd>Esc</kbd>
-* Go to line <kbd>Ctrl</kbd> + <kbd>G</kbd>
-* Recent files popup <kbd>Ctrl</kbd> + <kbd>E</kbd>
-* Navigate back/forward <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Left</kbd>/<kbd>Right</kbd>
-* Navigate to last edit location <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Backspace</kbd>
+* Go to line <kbd>Ctrl</kbd> + <kbd>G</kbd>
+* Recent files popup <kbd>Ctrl</kbd> + <kbd>E</kbd>
+* Navigate back/forward <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Left</kbd>/<kbd>Right</kbd>
+* Navigate to last edit location <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Backspace</kbd>
 * Select current file or symbol in any view <kbd>Alt</kbd> + <kbd>F1</kbd>
 * Go to declaration <kbd>Ctrl</kbd> + <kbd>B</kbd> , <kbd>Ctrl</kbd> + **Click**
 * Go to implementation(s) <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>B</kbd>
@@ -150,13 +151,13 @@
 * Commit project to VCS <kbd>Ctrl</kbd> + <kbd>K</kbd>
 * Update project from VCS <kbd>Ctrl</kbd> + <kbd>T</kbd>
 * Push commits <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd>
-* ‘VCS’ quick popup <kbd>Alt</kbd> + <kbd>BackQuote (`)</kbd>
+* 'VCS' quick popup <kbd>Alt</kbd> + <kbd>BackQuote (`)</kbd>
 
 ## Live Templates
 * Surround with Live Template <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>J</kbd>
 * Insert Live Template <kbd>Ctrl</kbd> + <kbd>J</kbd>
 
 
-!!! info "NOTICE"
-    Initial version from [IntelliJ IDEA Reference Card](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
-
+::: info NOTICE
+Initial version from [IntelliJ IDEA Reference Card](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
+:::

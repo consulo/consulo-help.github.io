@@ -1,5 +1,6 @@
-!!! info "See also"
-    [Default Keymap Reference]
+::: info See also
+[Default Keymap Reference]
+:::
 
 ---
 
@@ -23,4 +24,3 @@ Then press apply to save your settings.
 
 <!--- Links --->
 [Default Keymap Reference]:/platform/keymap/overview.md
-

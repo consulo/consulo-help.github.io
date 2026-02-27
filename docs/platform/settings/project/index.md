@@ -1,8 +1,11 @@
-!!! warning "Work In Progress"
+::: warning Work In Progress
+:::
 
 Project settings are settings that relate directly to your project.
 
-!!! note "Project settings may be managed by a plugin such as Gradle."
+::: tip
+Project settings may be managed by a plugin such as Gradle.
+:::
 
 ![UI Screenshot](images/project.png)
 

@@ -1,33 +1,33 @@
-# :fontawesome-brands-windows: macOS default keymap
+# macOS default keymap
 
 <!--
-!!! quote ""
-    Check [apple shortcuts guide](https://support.apple.com/guide/mac-help/what-are-those-symbols-shown-in-menus-cpmh0011/mac)
-    
-    * Command (or Cmd) <kbd>Command ⌘</kbd>
-    * Shift <kbd>Shift ⇧</kbd>
-    * Option (or Alt) <kbd>Option ⌥</kbd>
-    * Control (or Ctrl) <kbd>Control ⌃</kbd>
-    * Return <kbd>Return ⮨</kbd>
-    * Up <kbd>Up 🠕</kbd>
-    * Down <kbd>Down 🠗</kbd>
-    * <kbd>Escape ⎋</kbd>
+Check [apple shortcuts guide](https://support.apple.com/guide/mac-help/what-are-those-symbols-shown-in-menus-cpmh0011/mac)
+
+* Command (or Cmd) <kbd>Command ⌘</kbd>
+* Shift <kbd>Shift ⇧</kbd>
+* Option (or Alt) <kbd>Option ⌥</kbd>
+* Control (or Ctrl) <kbd>Control ⌃</kbd>
+* Return <kbd>Return ⮨</kbd>
+* Up <kbd>Up 🠕</kbd>
+* Down <kbd>Down 🠗</kbd>
+* <kbd>Escape ⎋</kbd>
 -->
 
-!!! note "Remember these Shortcuts"
-    * Smart code completion <kbd>Control ⌃</kbd> <kbd>Shift ⇧</kbd> <kbd>Space</kbd>
-    * Search everywhere **Double** <kbd>Shift ⇧</kbd>
-        * Go to class <kbd>Command ⌘</kbd><kbd>O</kbd>
-        * Go to file <kbd>Command ⌘</kbd><kbd>Shift ⇧</kbd><kbd>O</kbd>
-        * Go to symbol <kbd>Command ⌘</kbd><kbd>Option ⌥</kbd><kbd>O</kbd>
-        * Go to file <kbd>Command ⌘</kbd><kbd>Shift ⇧</kbd><kbd>A</kbd>
-    * Show intention actions and quick-fixes <kbd>Command ⌘</kbd><kbd>Return ⮨</kbd>
-    * Generate code <kbd>Command ⌘</kbd><kbd>N</kbd> or <kbd>Control ⌃</kbd><kbd>Return ⮨</kbd>
-    * Parameter info <kbd>Command ⌘</kbd><kbd>P</kbd>
-    * Extend selection <kbd>Option ⌥</kbd><kbd>Command ⌘</kbd><kbd>Up 🠕</kbd>
-    * Shrink selection <kbd>Option ⌥</kbd><kbd>Command ⌘</kbd><kbd>Down 🠗</kbd>
-    * Recent files popup <kbd>Command ⌘</kbd><kbd>E</kbd>
-    * Rename <kbd>Shift ⇧</kbd><kbd>F6</kbd>
+::: tip Remember these Shortcuts
+* Smart code completion <kbd>Control ⌃</kbd> <kbd>Shift ⇧</kbd> <kbd>Space</kbd>
+* Search everywhere **Double** <kbd>Shift ⇧</kbd>
+    * Go to class <kbd>Command ⌘</kbd><kbd>O</kbd>
+    * Go to file <kbd>Command ⌘</kbd><kbd>Shift ⇧</kbd><kbd>O</kbd>
+    * Go to symbol <kbd>Command ⌘</kbd><kbd>Option ⌥</kbd><kbd>O</kbd>
+    * Go to file <kbd>Command ⌘</kbd><kbd>Shift ⇧</kbd><kbd>A</kbd>
+* Show intention actions and quick-fixes <kbd>Command ⌘</kbd><kbd>Return ⮨</kbd>
+* Generate code <kbd>Command ⌘</kbd><kbd>N</kbd> or <kbd>Control ⌃</kbd><kbd>Return ⮨</kbd>
+* Parameter info <kbd>Command ⌘</kbd><kbd>P</kbd>
+* Extend selection <kbd>Option ⌥</kbd><kbd>Command ⌘</kbd><kbd>Up 🠕</kbd>
+* Shrink selection <kbd>Option ⌥</kbd><kbd>Command ⌘</kbd><kbd>Down 🠗</kbd>
+* Recent files popup <kbd>Command ⌘</kbd><kbd>E</kbd>
+* Rename <kbd>Shift ⇧</kbd><kbd>F6</kbd>
+:::
 
 ## General
 * Open corresponding tool window <kbd>Command ⌘</kbd><kbd>0</kbd> ... <kbd>Command ⌘</kbd><kbd>9</kbd>
@@ -72,7 +72,7 @@
 * Generate code... <kbd>Command ⌘</kbd><kbd>N</kbd> or <kbd>Control ⌃</kbd><kbd>Return ⮨</kbd>
 * Override methods <kbd>Control ⌃</kbd><kbd>O</kbd>
 * Implement methods <kbd>Control ⌃</kbd><kbd>I</kbd>
-* Surround with…  <kbd>Command ⌘</kbd><kbd>Option ⌥</kbd><kbd>T</kbd>
+* Surround with…  <kbd>Command ⌘</kbd><kbd>Option ⌥</kbd><kbd>T</kbd>
 * Comment/uncomment with line comment <kbd>Command ⌘</kbd><kbd>/</kbd>
 * Comment/uncomment with block comment <kbd>Command ⌘</kbd><kbd>Option ⌥</kbd><kbd>/</kbd>
 * Extend selection <kbd>Option ⌥</kbd><kbd>Up 🠕</kbd>
@@ -163,13 +163,13 @@
 * Commit project to VCS <kbd>Command ⌘</kbd><kbd>K</kbd>
 * Update project from VCS <kbd>Command ⌘</kbd><kbd>T</kbd>
 * Push commits <kbd>Command ⌘</kbd><kbd>Shift ⇧</kbd><kbd>K</kbd>
-* ‘VCS’ quick popup <kbd>Control ⌃</kbd><kbd>V</kbd>
+* 'VCS' quick popup <kbd>Control ⌃</kbd><kbd>V</kbd>
 
 ## Live Templates
 * Surround with Live Template <kbd>Command ⌘</kbd><kbd>Option ⌥</kbd><kbd>J</kbd>
 * Insert Live Template <kbd>Command ⌘</kbd><kbd>J</kbd>
 
 
-!!! info "NOTICE"
-    Initial version from [IntelliJ IDEA Reference Card](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
-
+::: info NOTICE
+Initial version from [IntelliJ IDEA Reference Card](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
+:::

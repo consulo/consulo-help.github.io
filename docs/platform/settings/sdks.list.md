@@ -1,4 +1,5 @@
-!!! warning "Work In Progress"
+::: warning Work In Progress
+:::
 
 SDKS/Bundles/Tools is the page for configuring your SDKs, Bundles, and Tools.
 
@@ -19,11 +20,11 @@ To copy an SDK, press the <img src="../images/copy.png" alt="copy"/> button at t
 
 For more information about the options provided for each platform, see the help page for the platform plugin.
 
-!!! info "See Also"
-	[Platform and Plugins] settings
-	[Setting Up Unity] guide
+::: info See Also
+[Platform and Plugins] settings
+[Setting Up Unity] guide
+:::
 
 <!--- Links --->
 [Platform and Plugins]:./platformAndPlugins/index.md
 [Setting Up Unity]:/plugins/consulo.unity3d/setup.md
-

@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://consulo.help/sitemap.xml
