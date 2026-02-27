@@ -31,6 +31,10 @@ export default defineConfig({
             level: [2, 3]
         },
 
+        editLink: {
+            pattern: 'https://github.com/consulo/consulo-help.github.io/edit/master/docs/:path'
+        },
+
         search: {
             provider: 'local'
         }
